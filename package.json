@@ -1,0 +1,27 @@
+{
+  "name": "@safagayret/error-reporter",
+  "version": "1.0.0",
+  "description": "A lightweight, configurable browser-side error reporter. Captures console logs, network requests and a screenshot, then packages everything into a ZIP — either downloaded locally or uploaded to your endpoint.",
+  "main": "src/index.js",
+  "bin": {
+    "error-reporter": "bin/init.js"
+  },
+  "scripts": {
+    "init": "node bin/init.js"
+  },
+  "keywords": [
+    "error-reporter",
+    "bug-report",
+    "debugging",
+    "screenshot",
+    "network-log",
+    "console-log",
+    "browser"
+  ],
+  "author": "Safa Gayret",
+  "license": "MIT",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jszip": "^3.10.1"
+  }
+}
