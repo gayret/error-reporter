@@ -9,6 +9,17 @@
   "scripts": {
     "init": "node bin/init.js"
   },
+  "files": [
+    "src",
+    "bin",
+    "template",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "error-reporter",
     "bug-report",
