@@ -1,5 +1,7 @@
 # @safagayret/error-reporter
 
+[![GitHub](https://img.shields.io/badge/GitHub-gayret%2Ferror--reporter-blue?logo=github)](https://github.com/gayret/error-reporter)
+
 A lightweight, configurable browser-side error reporter. When triggered, it captures a **screenshot**, **console logs**, **network requests/responses**, and **system info**, then packages everything into a ZIP — either downloaded directly to the user's computer or uploaded to your own endpoint.
 
 ---
@@ -180,4 +182,4 @@ Screenshots are captured using [html2canvas](https://html2canvas.hertzen.com/). 
 
 ## License
 
-MIT © Safa Gayret
+MIT © Safa Gayret — [github.com/gayret/error-reporter](https://github.com/gayret/error-reporter)

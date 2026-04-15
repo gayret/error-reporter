@@ -31,6 +31,14 @@
   ],
   "author": "Safa Gayret",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gayret/error-reporter.git"
+  },
+  "homepage": "https://github.com/gayret/error-reporter",
+  "bugs": {
+    "url": "https://github.com/gayret/error-reporter/issues"
+  },
   "dependencies": {
     "html2canvas": "^1.4.1",
     "jszip": "^3.10.1"
