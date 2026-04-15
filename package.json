@@ -1,6 +1,6 @@
 {
   "name": "@safagayret/error-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, configurable browser-side error reporter. Captures console logs, network requests and a screenshot, then packages everything into a ZIP — either downloaded locally or uploaded to your endpoint.",
   "main": "src/index.js",
   "bin": {
